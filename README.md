@@ -1,1 +1,1 @@
-# Final-Exam-Appsdev
+# Final-Exam-Appsdev Event Registrations
